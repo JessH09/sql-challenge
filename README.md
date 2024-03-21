@@ -1,1 +1,12 @@
 # sql-challenge
+It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
+
+For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
+
+Final queries can be found under starter_code folder -> employee_db(final_queries)
+Result tables can be found under results folder, tables correspond to the questions (ex: Q1 table is the table for question 1 found in sql code)
+
+help from:
+Quick DBD (initial code)
+TA
+Documentation/stack overflow
